@@ -68,30 +68,6 @@ Before publishing, add the exact dataset URL and verify its license and redistri
 - Is satisfaction different for passengers with and without departure delays?
 - How might missing values or duplicate records affect the analysis?
 
-## ▶️ How to Run the Project
-
-1. Open the Jupyter Notebook in Google Colab.
-2. Download the dataset from the source documented in the repository.
-3. Upload the CSV file or update the notebook's file path.
-4. Run the notebook cells from beginning to end.
-5. Review the summary tables and visualizations.
-6. Document insights using the actual analytical results.
-
-## 📈 Expected Deliverables
-
-- Python notebook with documented code.
-- Data-quality checks and cleaning decisions.
-- Summary tables and relevant visualizations.
-- Five to eight evidence-based business insights.
-- A management summary based on the actual results.
-
-## ⚠️ Important Notes
-
-- Do not assume missing arrival-delay values are zero.
-- Document how missing values are handled.
-- Define the satisfaction categories used when calculating satisfaction rates.
-- An association between flight delays and satisfaction does not prove that delays caused lower satisfaction.
-- Report only findings verified against the dataset and notebook outputs.
 
 ## 🚀 Skills Demonstrated
 
